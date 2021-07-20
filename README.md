@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullah
-- 👀 I’m interested in Data Industry 
+- 👀 I’m interested in Data Science & Analysis. 
 - 🌱 I’m currently learning Couple courses with udacity to improve my career in the same field. 
 - 📫 You could reach me on the DM or my linkdin profile '...'
 
